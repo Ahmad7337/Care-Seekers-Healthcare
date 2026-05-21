@@ -1,0 +1,20 @@
+# Credentials & Config
+db.php
+mailer.php
+
+
+# Xampp / Local Environment
+
+.htaccess
+php.ini
+
+
+# uplaods
+
+uploads/
+!uploads/.gitkeep
+
+
+#mails
+
+PHPMailer/
